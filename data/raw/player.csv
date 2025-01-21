@@ -111,7 +111,7 @@ id,full_name,first_name,last_name,is_active
 76050,Michael Ansley,Michael,Ansley,0
 1512,Chris Anstey,Chris,Anstey,0
 203507,Giannis Antetokounmpo,Giannis,Antetokounmpo,1
-1628961,Kostas Antetokounmpo,Kostas,Antetokounmpo,0
+1628961,Kostas Antetokounmpo,Kostas,Antetokounmpo,1
 203648,Thanasis Antetokounmpo,Thanasis,Antetokounmpo,1
 2546,Carmelo Anthony,Carmelo,Anthony,0
 1630175,Cole Anthony,Cole,Anthony,1
@@ -174,7 +174,6 @@ id,full_name,first_name,last_name,is_active
 76079,Milos Babic,Milos,Babic,0
 76080,Johnny Bach,Johnny,Bach,0
 1628407,Dwayne Bacon,Dwayne,Bacon,0
-1630641,Ibou Badji,Ibou,Badji,1
 76081,Jim Baechtold,Jim,Baechtold,0
 2053,Dalibor Bagaric,Dalibor,Bagaric,0
 76082,John Bagley,John,Bagley,0
@@ -195,6 +194,7 @@ id,full_name,first_name,last_name,is_active
 200764,Renaldo Balkman,Renaldo,Balkman,0
 76090,Cedric Ball,Cedric,Ball,0
 1630163,LaMelo Ball,LaMelo,Ball,1
+1629071,LiAngelo Ball,LiAngelo,Ball,1
 1628366,Lonzo Ball,Lonzo,Ball,1
 76091,Greg Ballard,Greg,Ballard,0
 76092,Herschel Baltimore,Herschel,Baltimore,0
@@ -269,7 +269,7 @@ id,full_name,first_name,last_name,is_active
 76127,Elgin Baylor,Elgin,Baylor,0
 203382,Aron Baynes,Aron,Baynes,0
 76128,Sergei Bazarevich,Sergei,Bazarevich,0
-203145,Kent Bazemore,Kent,Bazemore,0
+203145,Kent Bazemore,Kent,Bazemore,1
 1629647,Darius Bazley,Darius,Bazley,1
 76129,Ed Beach,Ed,Beach,0
 203078,Bradley Beal,Bradley,Beal,1
@@ -317,6 +317,7 @@ id,full_name,first_name,last_name,is_active
 1627791,Ben Bentil,Ben,Bentil,0
 76155,Gene Berce,Gene,Berce,0
 76156,Gary Bergen,Gary,Bergen,0
+1631262,Jules Bernard,Jules,Bernard,1
 76157,Ricky Berry,Ricky,Berry,0
 76158,Walter Berry,Walter,Berry,0
 1629541,Dairis Bertans,Dairis,Bertans,0
@@ -337,6 +338,7 @@ id,full_name,first_name,last_name,is_active
 76165,Bob Bigelow,Bob,Bigelow,0
 1497,Chauncey Billups,Chauncey,Billups,0
 76166,Dave Bing,Dave,Bing,0
+1631234,Marcus Bingham Jr.,Marcus,Bingham Jr.,1
 76167,Joe Binion,Joe,Binion,0
 203920,Khem Birch,Khem,Birch,1
 1628444,Jabari Bird,Jabari,Bird,0
@@ -392,7 +394,7 @@ id,full_name,first_name,last_name,is_active
 1629626,Bol Bol,Bol,Bol,1
 76195,Manute Bol,Manute,Bol,0
 1628413,Jonah Bolden,Jonah,Bolden,0
-1629716,Marques Bolden,Marques,Bolden,0
+1629716,Marques Bolden,Marques,Bolden,1
 76196,Bill Bolger,Bill,Bolger,0
 1630195,Leandro Bolmaro,Leandro,Bolmaro,1
 1627762,Joel Bolomboy,Joel,Bolomboy,0
@@ -422,8 +424,8 @@ id,full_name,first_name,last_name,is_active
 76210,Vince Boryla,Vince,Boryla,0
 2547,Chris Bosh,Chris,Bosh,0
 76211,Jim Bostic,Jim,Bostic,0
+1630527,Brandon Boston,Brandon,Boston,1
 76212,Lawrence Boston,Lawrence,Boston,0
-1630527,Brandon Boston Jr.,Brandon,Boston Jr.,1
 76213,Tom Boswell,Tom,Boswell,0
 1628449,Chris Boucher,Chris,Boucher,1
 1630547,James Bouknight,James,Bouknight,1
@@ -471,7 +473,7 @@ id,full_name,first_name,last_name,is_active
 76238,Bob Brannum,Bob,Brannum,0
 76239,Brad Branson,Brad,Branson,0
 76240,Jesse Branson,Jesse,Branson,0
-1629714,Jarrell Brantley,Jarrell,Brantley,1
+1629714,Jarrell Brantley,Jarrell,Brantley,0
 76241,Jim Brasco,Jim,Brasco,0
 76242,Mike Bratz,Mike,Bratz,0
 76243,Carl Braun,Carl,Braun,0
@@ -532,6 +534,7 @@ id,full_name,first_name,last_name,is_active
 2484,Devin Brown,Devin,Brown,0
 2081,Ernest Brown,Ernest,Brown,0
 76272,Fred Brown,Fred,Brown,0
+1631122,Gabe Brown,Gabe,Brown,1
 76273,George Brown,George,Brown,0
 1871,Gerald Brown,Gerald,Brown,0
 76275,Harold Brown,Harold,Brown,0
@@ -556,11 +559,11 @@ id,full_name,first_name,last_name,is_active
 76286,Roger Brown,Roger,Brown,0
 200769,Shannon Brown,Shannon,Brown,0
 76285,Stan Brown,Stan,Brown,0
-1628425,Sterling Brown,Sterling,Brown,1
+1628425,Sterling Brown,Sterling,Brown,0
 2357,Tierre Brown,Tierre,Brown,0
 76268,Tony Brown,Tony,Brown,0
 1630535,Greg Brown III,Greg,Brown III,1
-1629718,Charlie Brown Jr.,Charlie,Brown Jr.,0
+1629718,Charlie Brown Jr.,Charlie,Brown Jr.,1
 1630602,Chaundee Brown Jr.,Chaundee,Brown Jr.,0
 1628972,Troy Brown Jr.,Troy,Brown Jr.,1
 76287,Jim Browne,Jim,Browne,0
@@ -594,7 +597,7 @@ id,full_name,first_name,last_name,is_active
 76302,Bill Buntin,Bill,Buntin,0
 76303,Luther Burden,Luther,Burden,0
 2469,Pat Burke,Pat,Burke,0
-203504,Trey Burke,Trey,Burke,0
+203504,Trey Burke,Trey,Burke,1
 76304,Roger Burkman,Roger,Burkman,0
 202692,Alec Burks,Alec,Burks,1
 2766,Antonio Burks,Antonio,Burks,0
@@ -608,7 +611,7 @@ id,full_name,first_name,last_name,is_active
 76311,Art Burris,Art,Burris,0
 675,Junior Burrough,Junior,Burrough,0
 76313,Bob Burrow,Bob,Burrow,0
-1629126,Deonte Burton,Deonte,Burton,1
+1629126,Deonte Burton,Deonte,Burton,0
 76314,Ed Burton,Ed,Burton,0
 416,Willie Burton,Willie,Burton,0
 76316,Steve Burtt,Steve,Burtt,0
@@ -624,7 +627,6 @@ id,full_name,first_name,last_name,is_active
 202710,Jimmy Butler,Jimmy,Butler,1
 348,Mitchell Butler,Mitchell,Butler,0
 2446,Rasual Butler,Rasual,Butler,0
-1631219,John Butler Jr.,John,Butler Jr.,1
 202779,Dwight Buycks,Dwight,Buycks,0
 201182,Derrick Byars,Derrick,Byars,0
 101115,Andrew Bynum,Andrew,Bynum,0
@@ -655,12 +657,12 @@ id,full_name,first_name,last_name,is_active
 76336,Mack Calvin,Mack,Calvin,0
 76337,Dexter Cambridge,Dexter,Cambridge,0
 948,Marcus Camby,Marcus,Camby,0
-1630267,Facundo Campazzo,Facundo,Campazzo,1
+1630267,Facundo Campazzo,Facundo,Campazzo,0
 922,Elden Campbell,Elden,Campbell,0
 76338,Tony Campbell,Tony,Campbell,0
 203477,Isaiah Canaan,Isaiah,Canaan,0
 1628427,Vlatko Cancar,Vlatko,Cancar,1
-1629962,Devin Cannady,Devin,Cannady,0
+1629962,Devin Cannady,Devin,Cannady,1
 76339,Larry Cannon,Larry,Cannon,0
 203991,Clint Capela,Clint,Capela,1
 202382,Derrick Caracter,Derrick,Caracter,0
@@ -698,7 +700,7 @@ id,full_name,first_name,last_name,is_active
 76361,Ron Carter,Ron,Carter,0
 1713,Vince Carter,Vince,Carter,0
 1628976,Wendell Carter Jr.,Wendell,Carter Jr.,1
-203487,Michael Carter-Williams,Michael,Carter-Williams,1
+203487,Michael Carter-Williams,Michael,Carter-Williams,0
 76362,Bill Cartwright,Bill,Cartwright,0
 76363,Jay Carty,Jay,Carty,0
 1627936,Alex Caruso,Alex,Caruso,1
@@ -710,7 +712,7 @@ id,full_name,first_name,last_name,is_active
 76367,Sid Catlett,Sid,Catlett,0
 1509,Kelvin Cato,Kelvin,Cato,0
 76368,Bobby Cattage,Bobby,Cattage,0
-1626161,Willie Cauley-Stein,Willie,Cauley-Stein,0
+1626161,Willie Cauley-Stein,Willie,Cauley-Stein,1
 1628505,Troy Caupain,Troy,Caupain,0
 190,Duane Causwell,Duane,Causwell,0
 1628463,Tyler Cavanaugh,Tyler,Cavanaugh,0
@@ -739,7 +741,7 @@ id,full_name,first_name,last_name,is_active
 76384,Lorenzo Charles,Lorenzo,Charles,0
 1629147,Joe Chealey,Joe,Chealey,0
 384,Calbert Cheaney,Calbert,Cheaney,0
-1629597,Zylan Cheatham,Zylan,Cheatham,0
+1629597,Zylan Cheatham,Zylan,Cheatham,1
 76385,Maurice Cheeks,Maurice,Cheeks,0
 76386,Phil Chenier,Phil,Chenier,0
 203805,Will Cherry,Will,Cherry,0
@@ -748,10 +750,10 @@ id,full_name,first_name,last_name,is_active
 2735,Josh Childress,Josh,Childress,0
 719,Randolph Childress,Randolph,Childress,0
 164,Chris Childs,Chris,Childs,0
-1629185,Chris Chiozza,Chris,Chiozza,0
+1629185,Chris Chiozza,Chris,Chiozza,1
 76391,Leroy Chollet,Leroy,Chollet,0
 76392,Jim Chones,Jim,Chones,0
-1627737,Marquese Chriss,Marquese,Chriss,0
+1627737,Marquese Chriss,Marquese,Chriss,1
 76393,Fred Christ,Fred,Christ,0
 76394,Cal Christensen,Cal,Christensen,0
 76395,Bob Christian,Bob,Christian,0
@@ -838,18 +840,17 @@ id,full_name,first_name,last_name,is_active
 76436,Jeff Cook,Jeff,Cook,0
 76437,Norm Cook,Norm,Cook,0
 2241,Omar Cook,Omar,Cook,0
-1626188,Quinn Cook,Quinn,Cook,0
+1626188,Quinn Cook,Quinn,Cook,1
 1629076,Tyler Cook,Tyler,Cook,0
 1628429,Charles Cooke,Charles,Cooke,0
 76439,David Cooke,David,Cooke,0
 76440,Joe Cooke,Joe,Cooke,0
-1641645,Xavier Cooks,Xavier,Cooks,1
 204022,Jack Cooley,Jack,Cooley,0
 76442,Chuck Cooper,Chuck,Cooper,0
 1030,Duane Cooper,Duane,Cooper,0
 76443,Joe Cooper,Joe,Cooper,0
 76444,Michael Cooper,Michael,Cooper,0
-1630536,Sharife Cooper,Sharife,Cooper,0
+1630536,Sharife Cooper,Sharife,Cooper,1
 76441,Wayne Cooper,Wayne,Cooper,0
 76446,Tom Copa,Tom,Copa,0
 203142,Chris Copeland,Chris,Copeland,0
@@ -905,6 +906,7 @@ id,full_name,first_name,last_name,is_active
 76481,Mark Crow,Mark,Crow,0
 76482,Corey Crowder,Corey,Crowder,0
 203109,Jae Crowder,Jae,Crowder,1
+1630622,Jalen Crutcher,Jalen,Crutcher,1
 1629633,Jarrett Culver,Jarrett,Culver,1
 1629600,Jarron Cumberland,Jarron,Cumberland,0
 76483,Pat Cummings,Pat,Cummings,0
@@ -949,7 +951,7 @@ id,full_name,first_name,last_name,is_active
 76507,Jimmy Darden,Jimmy,Darden,0
 212,Yinka Dare,Yinka,Dare,0
 76509,Jesse Dark,Jesse,Dark,0
-1630268,Nate Darling,Nate,Darling,0
+1630268,Nate Darling,Nate,Darling,1
 76511,Jimmy Darrow,Jimmy,Darrow,0
 203540,Gigi Datome,Gigi,Datome,0
 921,Brad Daugherty,Brad,Daugherty,0
@@ -1108,10 +1110,10 @@ id,full_name,first_name,last_name,is_active
 202220,Zabian Dowdell,Zabian,Dowdell,0
 76593,Bill Downey,Bill,Downey,0
 76594,Steve Downing,Steve,Downing,0
-1630288,Jeff Dowtin Jr.,Jeff,Dowtin Jr.,1
+1630288,Jeff Dowtin,Jeff,Dowtin,1
 76595,Danny Doyle,Danny,Doyle,0
 1628495,Milton Doyle,Milton,Doyle,0
-1628408,PJ Dozier,PJ,Dozier,1
+1628408,P.J. Dozier,P.J.,Dozier,1
 76596,Terry Dozier,Terry,Dozier,0
 201609,Goran Dragic,Goran,Dragic,1
 204054,Zoran Dragic,Zoran,Dragic,0
@@ -1147,7 +1149,7 @@ id,full_name,first_name,last_name,is_active
 1495,Tim Duncan,Tim,Duncan,0
 2399,Mike Dunleavy,Mike,Dunleavy,0
 76616,Mike Dunleavy,Mike,Dunleavy,0
-1627739,Kris Dunn,Kris,Dunn,1
+1627739,Kris Dunn,Kris,Dunn,0
 76617,Pat Dunn,Pat,Dunn,0
 76618,T.R. Dunn,T.R.,Dunn,0
 2648,Ronald Dupree,Ronald,Dupree,0
@@ -1157,6 +1159,7 @@ id,full_name,first_name,last_name,is_active
 1090,Pat Durham,Pat,Durham,0
 76621,Devin Durrant,Devin,Durrant,0
 76622,Ken Durrett,Ken,Durrett,0
+1631347,Anthony Duruji,Anthony,Duruji,1
 1628979,Trevon Duval,Trevon,Duval,0
 76624,Jack Dwan,Jack,Dwan,0
 76625,Craig Dykema,Craig,Dykema,0
@@ -1206,7 +1209,7 @@ id,full_name,first_name,last_name,is_active
 2064,Khalid El-Amin,Khalid,El-Amin,0
 76653,Don Eliason,Don,Eliason,0
 53,Mario Elie,Mario,Elie,0
-1629604,CJ Elleby,CJ,Elleby,0
+1629604,CJ Elleby,CJ,Elleby,1
 76655,Ray Ellefson,Ray,Ellefson,0
 1627740,Henry Ellenson,Henry,Ellenson,0
 201961,Wayne Ellington,Wayne,Ellington,0
@@ -1281,7 +1284,7 @@ id,full_name,first_name,last_name,is_active
 1108,Tony Farmer,Tony,Farmer,0
 76696,Bob Faught,Bob,Faught,0
 203543,Vitor Faverani,Vitor,Faverani,0
-202324,Derrick Favors,Derrick,Favors,0
+202324,Derrick Favors,Derrick,Favors,1
 201174,Nick Fazekas,Nick,Fazekas,0
 76697,Dave Fedor,Dave,Fedor,0
 76698,Bob Feerick,Bob,Feerick,0
@@ -1322,7 +1325,7 @@ id,full_name,first_name,last_name,is_active
 900,Matt Fish,Matt,Fish,0
 965,Derek Fisher,Derek,Fisher,0
 2809,Gerald Fitch,Gerald,Fitch,0
-1630238,Malik Fitts,Malik,Fitts,0
+1630238,Malik Fitts,Malik,Fitts,1
 76720,Bob Fitzgerald,Bob,Fitzgerald,0
 76719,Dick Fitzgerald,Dick,Fitzgerald,0
 2033,Marcus Fizer,Marcus,Fizer,0
@@ -1413,6 +1416,7 @@ id,full_name,first_name,last_name,is_active
 76767,Terry Furlow,Terry,Furlow,0
 76768,Billy Gabor,Billy,Gabor,0
 1629117,Wenyen Gabriel,Wenyen,Gabriel,1
+203583,Abdul Gaddy,Abdul,Gaddy,1
 2429,Dan Gadzuric,Dan,Gadzuric,0
 202070,Tony Gaffney,Tony,Gaffney,0
 1629655,Daniel Gafford,Daniel,Gafford,1
@@ -1425,7 +1429,7 @@ id,full_name,first_name,last_name,is_active
 76772,Chad Gallagher,Chad,Gallagher,0
 76773,Harry Gallatin,Harry,Gallatin,0
 201568,Danilo Gallinari,Danilo,Gallinari,1
-204038,Langston Galloway,Langston,Galloway,0
+204038,Langston Galloway,Langston,Galloway,1
 76774,Dave Gambee,Dave,Gambee,0
 333,Kevin Gamble,Kevin,Gamble,0
 76776,Bob Gantt,Bob,Gantt,0
@@ -1451,7 +1455,7 @@ id,full_name,first_name,last_name,is_active
 1051,Dean Garrett,Dean,Garrett,0
 203197,Diante Garrett,Diante,Garrett,0
 76788,Eldo Garrett,Eldo,Garrett,0
-1630585,Marcus Garrett,Marcus,Garrett,0
+1630585,Marcus Garrett,Marcus,Garrett,1
 76789,Rowland Garrett,Rowland,Garrett,0
 76790,Tom Garrick,Tom,Garrick,0
 76791,John Garris,John,Garris,0
@@ -1524,6 +1528,7 @@ id,full_name,first_name,last_name,is_active
 203497,Rudy Gobert,Rudy,Gobert,1
 76827,Dan Godfread,Dan,Godfread,0
 76828,Tom Gola,Tom,Gola,0
+1631371,Grant Golden,Grant,Golden,1
 76829,Ben Goldfaden,Ben,Goldfaden,0
 924,Anthony Goldwire,Anthony,Goldwire,0
 101155,Ryan Gomes,Ryan,Gomes,0
@@ -1582,13 +1587,14 @@ id,full_name,first_name,last_name,is_active
 76859,Gary Gray,Gary,Gray,0
 1627982,Josh Gray,Josh,Gray,0
 76860,Leonard Gray,Leonard,Gray,0
+1630564,RaiQuan Gray,RaiQuan,Gray,1
 76861,Stuart Gray,Stuart,Gray,0
 76862,Sylvester Gray,Sylvester,Gray,0
 76863,Wyndol Gray,Wyndol,Gray,0
 81,Jeff Grayer,Jeff,Grayer,0
 76865,Bob Greacen,Bob,Greacen,0
 920,A.C. Green,A.C.,Green,0
-1631260,AJ Green,AJ,Green,1
+1631260,A.J. Green,A.J.,Green,1
 201980,Danny Green,Danny,Green,1
 101209,Devin Green,Devin,Green,0
 203110,Draymond Green,Draymond,Green,1
@@ -1647,6 +1653,7 @@ id,full_name,first_name,last_name,is_active
 76901,Petur Gudmundsson,Petur,Gudmundsson,0
 1629741,Marko Guduric,Marko,Guduric,0
 76902,Richie Guerin,Richie,Guerin,0
+1631338,Mouhamadou Gueye,Mouhamadou,Gueye,1
 339,Tom Gugliotta,Tom,Gugliotta,0
 76903,Andres Guibert,Andres,Guibert,0
 76904,Jay Guidinger,Jay,Guidinger,0
@@ -1684,7 +1691,7 @@ id,full_name,first_name,last_name,is_active
 1631160,Jordan Hall,Jordan,Hall,1
 1630221,Josh Hall,Josh,Hall,0
 200837,Mike Hall,Mike,Hall,0
-1629788,Tyler Hall,Tyler,Hall,0
+1629788,Tyler Hall,Tyler,Hall,1
 76923,Jeff Halliburton,Jeff,Halliburton,0
 1032,Darvin Ham,Darvin,Ham,0
 984,Steve Hamer,Steve,Hamer,0
@@ -1755,7 +1762,7 @@ id,full_name,first_name,last_name,is_active
 2734,Devin Harris,Devin,Harris,0
 203548,Elias Harris,Elias,Harris,0
 203914,Gary Harris,Gary,Harris,1
-1630223,Jalen Harris,Jalen,Harris,0
+1630223,Jalen Harris,Jalen,Harris,1
 203925,Joe Harris,Joe,Harris,1
 1630284,Kevon Harris,Kevon,Harris,1
 446,Lucious Harris,Lucious,Harris,0
@@ -1769,7 +1776,7 @@ id,full_name,first_name,last_name,is_active
 1626150,Andrew Harrison,Andrew,Harrison,0
 76962,Bob Harrison,Bob,Harrison,0
 2758,David Harrison,David,Harrison,0
-1627885,Shaquille Harrison,Shaquille,Harrison,0
+1627885,Shaquille Harrison,Shaquille,Harrison,1
 2078,Jason Hart,Jason,Hart,0
 1628404,Josh Hart,Josh,Hart,1
 1628392,Isaiah Hartenstein,Isaiah,Hartenstein,1
@@ -1890,7 +1897,7 @@ id,full_name,first_name,last_name,is_active
 77029,Fred Hilton,Fred,Hilton,0
 2550,Kirk Hinrich,Kirk,Hinrich,0
 77030,Roy Hinson,Roy,Hinson,0
-1630207,Nate Hinton,Nate,Hinton,0
+1630207,Nate Hinton,Nate,Hinton,1
 77031,Mel Hirsch,Mel,Hirsch,0
 77032,Lew Hitch,Lew,Hitch,0
 200823,Robert Hite,Robert,Hite,0
@@ -1988,7 +1995,7 @@ id,full_name,first_name,last_name,is_active
 77081,Jay Humphries,Jay,Humphries,0
 2743,Kris Humphries,Kris,Humphries,0
 77082,Rod Hundley,Rod,Hundley,0
-1630624,Feron Hunt,Feron,Hunt,0
+1630624,Feron Hunt,Feron,Hunt,1
 2599,Brandon Hunter,Brandon,Hunter,0
 77083,Cedric Hunter,Cedric,Hunter,0
 201805,Chris Hunter,Chris,Hunter,0
@@ -2001,6 +2008,7 @@ id,full_name,first_name,last_name,is_active
 1626205,Vincent Hunter,Vincent,Hunter,0
 310,Bobby Hurley,Bobby,Hurley,0
 77086,Roy Hurley,Roy,Hurley,0
+1630562,Matt Hurt,Matt,Hurt,1
 77087,Geoff Huston,Geoff,Huston,0
 77088,Paul Huston,Paul,Huston,0
 77089,Mel Hutchins,Mel,Hutchins,0
@@ -2037,13 +2045,13 @@ id,full_name,first_name,last_name,is_active
 202132,Cedric Jackson,Cedric,Jackson,0
 201616,Darnell Jackson,Darnell,Jackson,0
 1627743,Demetrius Jackson,Demetrius,Jackson,0
-1628402,Frank Jackson,Frank,Jackson,1
+1628402,Frank Jackson,Frank,Jackson,0
 77101,Greg Jackson,Greg,Jackson,0
 1630543,Isaiah Jackson,Isaiah,Jackson,1
 1114,Jaren Jackson,Jaren,Jackson,0
 1983,Jermaine Jackson,Jermaine,Jackson,0
 754,Jim Jackson,Jim,Jackson,0
-1628367,Josh Jackson,Josh,Jackson,0
+1628367,Josh Jackson,Josh,Jackson,1
 1628382,Justin Jackson,Justin,Jackson,1
 77103,Lucious Jackson,Lucious,Jackson,0
 2739,Luke Jackson,Luke,Jackson,0
@@ -2097,6 +2105,7 @@ id,full_name,first_name,last_name,is_active
 200971,Dontell Jefferson,Dontell,Jefferson,0
 2210,Richard Jefferson,Richard,Jefferson,0
 1629610,DaQuan Jeffries,DaQuan,Jeffries,1
+1631300,Drake Jeffries,Drake,Jeffries,1
 2407,Jared Jeffries,Jared,Jeffries,0
 202724,Charles Jenkins,Charles,Jenkins,0
 2798,Horace Jenkins,Horace,Jenkins,0
@@ -2343,7 +2352,7 @@ id,full_name,first_name,last_name,is_active
 1562,Gerard King,Gerard,King,0
 77270,Jim King,Jim,King,0
 728,Jimmy King,Jimmy,King,0
-1629663,Louis King,Louis,King,1
+1629663,Louis King,Louis,King,0
 77272,Maury King,Maury,King,0
 77273,Reggie King,Reggie,King,0
 1101,Rich King,Rich,King,0
@@ -2354,6 +2363,7 @@ id,full_name,first_name,last_name,is_active
 1905,Andrei Kirilenko,Andrei,Kirilenko,0
 203945,Alex Kirk,Alex,Kirk,0
 77278,Walt Kirk,Walt,Kirk,0
+1631452,Noah Kirkwood,Noah,Kirkwood,1
 1630557,Corey Kispert,Corey,Kispert,1
 77279,Doug Kistler,Doug,Kistler,0
 77280,Curtis Kitchen,Curtis,Kitchen,0
@@ -2484,7 +2494,7 @@ id,full_name,first_name,last_name,is_active
 1630639,A.J. Lawson,A.J.,Lawson,1
 1535,Jason Lawson,Jason,Lawson,0
 201951,Ty Lawson,Ty,Lawson,0
-1627774,Jake Layman,Jake,Layman,0
+1627774,Jake Layman,Jake,Layman,1
 77350,Dennis Layton,Dennis,Layton,0
 1627747,Caris LeVert,Caris,LeVert,1
 1628388,T.J. Leaf,T.J.,Leaf,0
@@ -2509,7 +2519,7 @@ id,full_name,first_name,last_name,is_active
 77363,Rock Lee,Rock,Lee,0
 77364,Ron Lee,Ron,Lee,0
 77365,Russell Lee,Russell,Lee,0
-1630240,Saben Lee,Saben,Lee,1
+1630240,Saben Lee,Saben,Lee,0
 77366,Ed Leede,Ed,Leede,0
 77367,Hank Lefkowitz,Hank,Lefkowitz,0
 100,Tim Legler,Tim,Legler,0
@@ -2520,7 +2530,7 @@ id,full_name,first_name,last_name,is_active
 77371,Bob Leonard,Bob,Leonard,0
 77370,Gary Leonard,Gary,Leonard,0
 202695,Kawhi Leonard,Kawhi,Leonard,1
-203086,Meyers Leonard,Meyers,Leonard,1
+203086,Meyers Leonard,Meyers,Leonard,0
 77372,Jim Les,Jim,Les,0
 202727,Travis Leslie,Travis,Leslie,0
 77373,Ronnie Lester,Ronnie,Lester,0
@@ -2544,7 +2554,6 @@ id,full_name,first_name,last_name,is_active
 1630184,Kira Lewis Jr.,Kira,Lewis Jr.,1
 77386,Marcus Liberty,Marcus,Liberty,0
 77387,Todd Lichti,Todd,Lichti,0
-1630604,E.J. Liddell,E.J.,Liddell,1
 202732,DeAndre Liggins,DeAndre,Liggins,0
 77388,Bill Ligon,Bill,Ligon,0
 203081,Damian Lillard,Damian,Lillard,1
@@ -2607,7 +2616,7 @@ id,full_name,first_name,last_name,is_active
 77424,Phil Lumpkin,Phil,Lumpkin,0
 77425,Ray Lumpp,Ray,Lumpp,0
 1630994,Gabriel Lundberg,Gabriel,Lundberg,0
-1627789,Timothe Luwawu-Cabarrot,Timothe,Luwawu-Cabarrot,0
+1627789,Timothe Luwawu-Cabarrot,Timothe,Luwawu-Cabarrot,1
 1628399,Tyler Lydon,Tyler,Lydon,0
 1626168,Trey Lyles,Trey,Lyles,1
 248,George Lynch,George,Lynch,0
@@ -2648,9 +2657,10 @@ id,full_name,first_name,last_name,is_active
 328,Rick Mahorn,Rick,Mahorn,0
 105,Dan Majerle,Dan,Majerle,0
 200970,Renaldo Major,Renaldo,Major,0
+1630588,Makur Maker,Makur,Maker,1
 1627748,Thon Maker,Thon,Maker,0
 77447,Lionel Malamed,Lionel,Malamed,0
-1630177,Theo Maledon,Theo,Maledon,1
+1630177,Theo Maledon,Theo,Maledon,0
 117,Jeff Malone,Jeff,Malone,0
 252,Karl Malone,Karl,Malone,0
 77449,Moses Malone,Moses,Malone,0
@@ -2707,7 +2717,7 @@ id,full_name,first_name,last_name,is_active
 1626185,Jarell Martin,Jarell,Martin,0
 77474,Jeff Martin,Jeff,Martin,0
 1629725,Jeremiah Martin,Jeremiah,Martin,0
-1629103,Kelan Martin,Kelan,Martin,0
+1629103,Kelan Martin,Kelan,Martin,1
 2030,Kenyon Martin,Kenyon,Martin,0
 2755,Kevin Martin,Kevin,Martin,0
 77475,Larue Martin,Larue,Martin,0
@@ -2748,7 +2758,7 @@ id,full_name,first_name,last_name,is_active
 77494,Ken Mayfield,Ken,Mayfield,0
 201953,Eric Maynor,Eric,Maynor,0
 201564,O.J. Mayo,O.J.,Mayo,0
-1630219,Skylar Mays,Skylar,Mays,0
+1630219,Skylar Mays,Skylar,Mays,1
 77496,Travis Mays,Travis,Mays,0
 77497,Matt Mazza,Matt,Mazza,0
 201601,Luc Mbah a Moute,Luc,Mbah a Moute,0
@@ -2777,7 +2787,7 @@ id,full_name,first_name,last_name,is_active
 2082,Dan McClintock,Dan,McClintock,0
 77512,Jack McCloskey,Jack,McCloskey,0
 45,George McCloud,George,McCloud,0
-1630644,Mac McClung,Mac,McClung,1
+1630644,Mac McClung,Mac,McClung,0
 203468,CJ McCollum,CJ,McCollum,1
 77513,John McConathy,John,McConathy,0
 77514,Paul McConnell,Paul,McConnell,0
@@ -2799,7 +2809,7 @@ id,full_name,first_name,last_name,is_active
 77523,Jim McDaniels,Jim,McDaniels,0
 203909,KJ McDaniels,KJ,McDaniels,0
 203926,Doug McDermott,Doug,McDermott,1
-1630253,Sean McDermott,Sean,McDermott,0
+1630253,Sean McDermott,Sean,McDermott,1
 77524,Ben McDonald,Ben,McDonald,0
 77525,Glenn McDonald,Glenn,McDonald,0
 1075,Michael McDonald,Michael,McDonald,0
@@ -2922,6 +2932,7 @@ id,full_name,first_name,last_name,is_active
 77602,Dick Miller,Dick,Miller,0
 77599,Eddie Miller,Eddie,Miller,0
 77600,Harry Miller,Harry,Miller,0
+1630627,Isaiah Miller,Isaiah,Miller,1
 77601,Jay Miller,Jay,Miller,0
 1626259,Malcolm Miller,Malcolm,Miller,0
 2034,Mike Miller,Mike,Miller,0
@@ -2953,6 +2964,7 @@ id,full_name,first_name,last_name,is_active
 77614,Todd Mitchell,Todd,Mitchell,0
 203183,Tony Mitchell,Tony,Mitchell,0
 203502,Tony Mitchell,Tony,Mitchell,0
+1630342,Trhae Mitchell,Trhae,Mitchell,1
 1628513,Naz Mitrou-Long,Naz,Mitrou-Long,0
 77618,Steve Mix,Steve,Mix,0
 77619,Bill Mlkvy,Bill,Mlkvy,0
@@ -3033,7 +3045,7 @@ id,full_name,first_name,last_name,is_active
 1626144,Emmanuel Mudiay,Emmanuel,Mudiay,0
 77658,Erwin Mueller,Erwin,Mueller,0
 203498,Shabazz Muhammad,Shabazz,Muhammad,0
-1628539,Mychal Mulder,Mychal,Mulder,0
+1628539,Mychal Mulder,Mychal,Mulder,1
 77659,Joe Mullaney,Joe,Mullaney,0
 77660,Bob Mullens,Bob,Mullens,0
 201957,Byron Mullens,Byron,Mullens,0
@@ -3115,7 +3127,7 @@ id,full_name,first_name,last_name,is_active
 77701,Louie Nelson,Louie,Nelson,0
 1629614,Andrew Nembhard,Andrew,Nembhard,1
 1129,Ruben Nembhard,Ruben,Nembhard,0
-1630612,RJ Nembhard Jr.,RJ,Nembhard Jr.,0
+1630612,RJ Nembhard Jr.,RJ,Nembhard Jr.,1
 2403,Nene,,Nene,0
 1838,Tyrone Nesby,Tyrone,Nesby,0
 1630174,Aaron Nesmith,Aaron,Nesmith,1
@@ -3177,7 +3189,7 @@ id,full_name,first_name,last_name,is_active
 203263,James Nunnally,James,Nunnally,0
 203994,Jusuf Nurkic,Jusuf,Nurkic,1
 77738,Dennis Nutt,Dennis,Nutt,0
-1628021,David Nwaba,David,Nwaba,0
+1628021,David Nwaba,David,Nwaba,1
 1629670,Jordan Nwora,Jordan,Nwora,1
 1022,Julius Nwosu,Julius,Nwosu,0
 1525,Charles O'Bannon,Charles,O'Bannon,0
@@ -3307,7 +3319,7 @@ id,full_name,first_name,last_name,is_active
 77803,Doyle Parrack,Doyle,Parrack,0
 77804,Charlie Parsley,Charlie,Parsley,0
 202718,Chandler Parsons,Chandler,Parsons,0
-1629672,Eric Paschall,Eric,Paschall,0
+1629672,Eric Paschall,Eric,Paschall,1
 1628394,Anzejs Pasecniks,Anzejs,Pasecniks,0
 1097,Zarko Paspalj,Zarko,Paspalj,0
 77806,Marty Passaglia,Marty,Passaglia,0
@@ -3389,9 +3401,10 @@ id,full_name,first_name,last_name,is_active
 77855,Gary Phillips,Gary,Phillips,0
 184,Bobby Phills,Bobby,Phills,0
 15,Eric Piatkowski,Eric,Piatkowski,0
-1630691,Jamorko Pickett,Jamorko,Pickett,0
+1630691,Jamorko Pickett,Jamorko,Pickett,1
 1718,Paul Pierce,Paul,Pierce,0
 894,Ricky Pierce,Ricky,Pierce,0
+1630321,Nate Pierre-Louis,Nate,Pierre-Louis,1
 77858,Stan Pietkiewicz,Stan,Pietkiewicz,0
 2554,Mickael Pietrus,Mickael,Pietrus,0
 77859,John Pilch,John,Pilch,0
@@ -3407,6 +3420,7 @@ id,full_name,first_name,last_name,is_active
 202354,Dexter Pittman,Dexter,Pittman,0
 2565,Zoran Planinic,Zoran,Planinic,0
 202353,Tibor Pleiss,Tibor,Pleiss,0
+1631342,Daeqwon Plowden,Daeqwon,Plowden,1
 1627850,Marshall Plumlee,Marshall,Plumlee,0
 203486,Mason Plumlee,Mason,Plumlee,1
 203101,Miles Plumlee,Miles,Plumlee,0
@@ -3443,7 +3457,7 @@ id,full_name,first_name,last_name,is_active
 1899,James Posey,James,Posey,0
 2068,Lavor Postell,Lavor,Postell,0
 958,Vitaly Potapenko,Vitaly,Potapenko,0
-1630695,Micah Potter,Micah,Potter,1
+1630695,Micah Potter,Micah,Potter,0
 200796,Leon Powe,Leon,Powe,0
 203939,Dwight Powell,Dwight,Powell,1
 2694,Josh Powell,Josh,Powell,0
@@ -3482,7 +3496,7 @@ id,full_name,first_name,last_name,is_active
 1628681,Rodney Purvis,Rodney,Purvis,0
 77891,Don Putman,Don,Putman,0
 1627817,Tim Quarterman,Tim,Quarterman,0
-1630243,Trevelin Queen,Trevelin,Queen,1
+1630243,Trevelin Queen,Trevelin,Queen,0
 1629674,Neemias Queta,Neemias,Queta,1
 77892,Bob Quick,Bob,Quick,0
 1630193,Immanuel Quickley,Immanuel,Quickley,1
@@ -3512,7 +3526,7 @@ id,full_name,first_name,last_name,is_active
 1630186,Jahmi'us Ramsey,Jahmi'us,Ramsey,0
 77908,Ray Ramsey,Ray,Ramsey,0
 1821,Mark Randall,Mark,Randall,0
-1626184,Chasson Randle,Chasson,Randle,0
+1626184,Chasson Randle,Chasson,Randle,1
 203944,Julius Randle,Julius,Randle,1
 201576,Anthony Randolph,Anthony,Randolph,0
 101183,Shavlik Randolph,Shavlik,Randolph,0
@@ -3645,7 +3659,7 @@ id,full_name,first_name,last_name,is_active
 77989,Jackie Robinson,Jackie,Robinson,0
 1554,Jamal Robinson,Jamal,Robinson,0
 381,James Robinson,James,Robinson,0
-1629010,Jerome Robinson,Jerome,Robinson,0
+1629010,Jerome Robinson,Jerome,Robinson,1
 1629620,Justin Robinson,Justin,Robinson,0
 1683,Larry Robinson,Larry,Robinson,0
 1629011,Mitchell Robinson,Mitchell,Robinson,1
@@ -3818,7 +3832,7 @@ id,full_name,first_name,last_name,is_active
 78100,Ray Scott,Ray,Scott,0
 1035,Shawnelle Scott,Shawnelle,Scott,0
 1630286,Trevon Scott,Trevon,Scott,0
-1630206,Jay Scrubb,Jay,Scrubb,0
+1630206,Jay Scrubb,Jay,Scrubb,1
 78102,Carey Scurry,Carey,Scurry,0
 1631220,Dereon Seabron,Dereon,Seabron,1
 78103,Bruce Seals,Bruce,Seals,0
@@ -3896,7 +3910,7 @@ id,full_name,first_name,last_name,is_active
 202918,Xavier Silas,Xavier,Silas,0
 202081,Garret Siler,Garret,Siler,0
 78152,Mike Silliman,Mike,Silliman,0
-1629735,Chris Silva,Chris,Silva,1
+1629735,Chris Silva,Chris,Silva,0
 101134,Wayne Simien,Wayne,Simien,0
 1627732,Ben Simmons,Ben,Simmons,1
 2250,Bobby Simmons,Bobby,Simmons,0
@@ -3918,6 +3932,7 @@ id,full_name,first_name,last_name,is_active
 201235,Courtney Sims,Courtney,Sims,0
 78159,Doug Sims,Doug,Sims,0
 203156,Henry Sims,Henry,Sims,0
+1631301,Jaylen Sims,Jaylen,Sims,1
 1630579,Jericho Sims,Jericho,Sims,1
 78161,Scott Sims,Scott,Sims,0
 202713,Kyle Singler,Kyle,Singler,0
@@ -3926,7 +3941,7 @@ id,full_name,first_name,last_name,is_active
 101189,James Singleton,James,Singleton,0
 78162,Mckinley Singleton,Mckinley,Singleton,0
 78163,Zeke Sinicola,Zeke,Sinicola,0
-1629686,Deividas Sirvydis,Deividas,Sirvydis,0
+1629686,Deividas Sirvydis,Deividas,Sirvydis,1
 78164,Charlie Sitton,Charlie,Sitton,0
 203491,Peyton Siva,Peyton,Siva,0
 101,Scott Skiles,Scott,Skiles,0
@@ -3944,7 +3959,7 @@ id,full_name,first_name,last_name,is_active
 101166,Uros Slokar,Uros,Slokar,0
 78174,Tom Sluby,Tom,Sluby,0
 1629346,Alen Smailagic,Alen,Smailagic,0
-1630606,Javonte Smart,Javonte,Smart,0
+1630606,Javonte Smart,Javonte,Smart,1
 78175,Keith Smart,Keith,Smart,0
 203935,Marcus Smart,Marcus,Smart,1
 78176,Belus Smawley,Belus,Smawley,0
@@ -4010,7 +4025,7 @@ id,full_name,first_name,last_name,is_active
 22,Rik Smits,Rik,Smits,0
 1091,Mike Smrek,Mike,Smrek,0
 78212,Joe Smyth,Joe,Smyth,0
-1630270,Xavier Sneed,Xavier,Sneed,0
+1630270,Xavier Sneed,Xavier,Sneed,1
 203503,Tony Snell,Tony,Snell,0
 727,Eric Snow,Eric,Snow,0
 78213,Dick Snyder,Dick,Snyder,0
@@ -4039,6 +4054,7 @@ id,full_name,first_name,last_name,is_active
 78227,Andre Spencer,Andre,Spencer,0
 771,Elmore Spencer,Elmore,Spencer,0
 280,Felton Spencer,Felton,Spencer,0
+1630311,Pat Spencer,Pat,Spencer,1
 78230,Lou Spicer,Lou,Spicer,0
 78231,Craig Spitzer,Craig,Spitzer,0
 201168,Tiago Splitter,Tiago,Splitter,0
@@ -4074,7 +4090,7 @@ id,full_name,first_name,last_name,is_active
 1630205,Lamar Stevens,Lamar,Stevens,1
 78252,Wayne Stevens,Wayne,Stevens,0
 2052,DeShawn Stevenson,DeShawn,Stevenson,0
-1630597,DJ Stewart,DJ,Stewart,0
+1630597,DJ Stewart,DJ,Stewart,1
 78253,Dennis Stewart,Dennis,Stewart,0
 1630191,Isaiah Stewart,Isaiah,Stewart,1
 1529,Kebu Stewart,Kebu,Stewart,0
@@ -4201,7 +4217,7 @@ id,full_name,first_name,last_name,is_active
 78314,David Thirdkill,David,Thirdkill,0
 203519,Adonis Thomas,Adonis,Thomas,0
 2873,Billy Thomas,Billy,Thomas,0
-1630271,Brodric Thomas,Brodric,Thomas,0
+1630271,Brodric Thomas,Brodric,Thomas,1
 1630560,Cam Thomas,Cam,Thomas,1
 1063,Carl Thomas,Carl,Thomas,0
 78316,Charles Thomas,Charles,Thomas,0
@@ -4255,7 +4271,7 @@ id,full_name,first_name,last_name,is_active
 1629680,Matisse Thybulle,Matisse,Thybulle,1
 78341,Howard Tidrick,Howard,Tidrick,0
 78342,Dan Tieman,Dan,Tieman,0
-1629681,Killian Tillie,Killian,Tillie,0
+1629681,Killian Tillie,Killian,Tillie,1
 78343,Darren Tillis,Darren,Tillis,0
 1630214,Xavier Tillman,Xavier,Tillman,1
 78344,Jack Tingle,Jack,Tingle,0
@@ -4381,7 +4397,7 @@ id,full_name,first_name,last_name,is_active
 202686,Jan Vesely,Jan,Vesely,0
 78415,Gundars Vetra,Gundars,Vetra,0
 78416,Joao Vianna,Joao,Vianna,0
-1630492,Luca Vildoza,Luca,Vildoza,0
+1630492,Luca Vildoza,Luca,Vildoza,1
 101111,Charlie Villanueva,Charlie,Villanueva,0
 1629216,Gabe Vincent,Gabe,Vincent,1
 78418,Jay Vincent,Jay,Vincent,0
@@ -4500,7 +4516,7 @@ id,full_name,first_name,last_name,is_active
 204037,Travis Wear,Travis,Wear,0
 221,Clar. Weatherspoon,Clar.,Weatherspoon,0
 78475,Nick Weatherspoon,Nick,Weatherspoon,0
-1629683,Quinndary Weatherspoon,Quinndary,Weatherspoon,0
+1629683,Quinndary Weatherspoon,Quinndary,Weatherspoon,1
 201602,Kyle Weaver,Kyle,Weaver,0
 78477,Jeff Webb,Jeff,Webb,0
 78478,Marcus Webb,Marcus,Webb,0
@@ -4623,7 +4639,6 @@ id,full_name,first_name,last_name,is_active
 101114,Deron Williams,Deron,Williams,0
 202682,Derrick Williams,Derrick,Williams,0
 78545,Don Williams,Don,Williams,0
-1631495,Donovan Williams,Donovan,Williams,1
 78546,Earl Williams,Earl,Williams,0
 202343,Elliot Williams,Elliot,Williams,0
 677,Eric Williams,Eric,Williams,0
@@ -4640,6 +4655,7 @@ id,full_name,first_name,last_name,is_active
 2398,Jay Williams,Jay,Williams,0
 1631119,Jaylin Williams,Jaylin,Williams,1
 420,Jayson Williams,Jayson,Williams,0
+1631466,Jeenathan Williams,Jeenathan,Williams,1
 966,Jerome Williams,Jerome,Williams,0
 78554,John Williams,John,Williams,0
 1629140,Johnathan Williams,Johnathan,Williams,0
@@ -4695,7 +4711,7 @@ id,full_name,first_name,last_name,is_active
 2000,Dedric Willoughby,Dedric,Willoughby,0
 78586,Bob Wilson,Bob,Wilson,0
 78585,Bobby Wilson,Bobby,Wilson,0
-1628391,D.J. Wilson,D.J.,Wilson,0
+1628391,D.J. Wilson,D.J.,Wilson,1
 78579,George Wilson,George,Wilson,0
 78580,Isaiah Wilson,Isaiah,Wilson,0
 203966,Jamil Wilson,Jamil,Wilson,0
