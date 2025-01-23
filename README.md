@@ -7,6 +7,7 @@ This project is an analysis of the Nba Database from the [wyattowalsh/nbadb](htt
 
 ## Features
 
+- Number of inactive players by team
 - Number of points scored by the teams at home and away
 - Total Number of points scored by the teams
 - Number of founded and stooped teams per year
